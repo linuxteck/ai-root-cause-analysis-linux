@@ -28,7 +28,7 @@ Start with this mindset shift:
 
 > AI analyzing logs and identifying root cause patterns
 
-![Preview](https://raw.githubusercontent.com/linuxteck/ai-rca/main/ai-preview.png)
+![Preview](https://github.com/linuxteck/ai-root-cause-analysis-linux/blob/main/AI_Root_Cause_Analysis_in_Linux.png)
 
 ---
 
